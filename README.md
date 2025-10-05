@@ -15,6 +15,15 @@ This project is my **course project from my Statistical Analysis with Python cou
 The dataset used in this project can be downloaded from:  
 [Link to Dataset](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
 
+## Analysis
+
+All **statistical analyses are performed entirely in the Jupyter Notebook**, including:  
+
+- Data exploration and visualization  
+- Proportion Z Tests for retention  
+- Mann-Whitney U Test and t-tests for number of game rounds  
+- Variable transformations and parametric vs non-parametric comparisons
+
 ## Notes
 
 - This project is a **course project** and part of the grading for my **Statistical Analysis with Python** course.  
