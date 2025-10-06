@@ -26,7 +26,7 @@ All **statistical analyses are performed entirely in the Jupyter Notebook**, inc
 
 ## Notes
 
-- This project is a **course project** and part of the grading for my **Statistical Analysis with Python** course.  
+- This project is a **course project** and part of the grading for our **Statistical Analysis with Python** course.  
 - Some code sections were inspired by other notebooks and online resources. You can also check these sources:  
   - [A/B Testing: Step by Step & Hypothesis Testing (notebook)](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)  
   - [【DataCamp Project】Mobile Games A/B Testing (notebook)](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing)  
